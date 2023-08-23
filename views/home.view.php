@@ -1,7 +1,7 @@
 <h2>Расписание поездок курьеров</h2>
 
-<p>Чтобы заполнить базу тестовыми данными, нажмите <a href="/index.php?page=test_data">здесь</a></p>
-<div class="error_message"></div>
+<!-- <p>Чтобы заполнить базу тестовыми данными, нажмите <a href="/index.php?page=test_data">здесь</a></p>
+<div class="error_message"></div> -->
 
 <h3>Внесение данных в расписание</h3>
 <form id="add_travel_for_courier">
